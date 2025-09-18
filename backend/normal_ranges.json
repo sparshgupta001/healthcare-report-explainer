@@ -1,0 +1,12 @@
+{
+  "Hemoglobin": { "min": 13.0, "max": 17.0, "unit": "g/dL", "meaning": "low hemoglobin may indicate anemia" },
+  "WBC": { "min": 4000, "max": 11000, "unit": "/µL", "meaning": "infection or immune issues" },
+  "Platelets": { "min": 150000, "max": 450000, "unit": "/µL", "meaning": "blood clotting problems" },
+  "RBC": { "min": 4.5, "max": 5.9, "unit": "million/µL", "meaning": "oxygen-carrying capacity" },
+  "Cholesterol": { "max": 200, "unit": "mg/dL", "meaning": "risk of heart disease" },
+  "HDL": { "min": 40, "unit": "mg/dL", "meaning": "good cholesterol (higher is better)" },
+  "LDL": { "max": 130, "unit": "mg/dL", "meaning": "bad cholesterol (lower is better)" },
+  "Triglycerides": { "max": 150, "unit": "mg/dL", "meaning": "high levels may increase heart disease risk" },
+  "Blood Sugar (Fasting)": { "min": 70, "max": 100, "unit": "mg/dL", "meaning": "diabetes risk if high" },
+  "Blood Sugar (PP)": { "max": 140, "unit": "mg/dL", "meaning": "high values may indicate diabetes" }
+}
